@@ -1,0 +1,12 @@
+{
+	"logging": {
+		"level": "info",
+		"filename": "yuki.log",
+		"quiet": false,
+		"overwrite": true,
+		"use_color": true
+	},
+	"discord": {
+		"token": "token do bot"
+	}
+}
